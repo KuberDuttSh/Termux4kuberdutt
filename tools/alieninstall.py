@@ -1,2 +1,1 @@
-# Tool: alieninstall.py
-echo Running alieninstall.py
+print("👽 AlienInstaller Python script running!")

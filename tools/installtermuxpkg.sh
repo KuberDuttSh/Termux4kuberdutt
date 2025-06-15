@@ -1,2 +1,3 @@
-# Tool: installtermuxpkg.sh
-echo Running installtermuxpkg.sh
+#!/bin/bash
+echo "📦 Installing packages..."
+pkg install -y nmap hydra

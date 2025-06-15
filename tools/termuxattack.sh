@@ -1,2 +1,2 @@
-# Tool: termuxattack.sh
-echo Running termuxattack.sh
+#!/bin/bash
+echo "💣 Termux Attack tool triggered!"

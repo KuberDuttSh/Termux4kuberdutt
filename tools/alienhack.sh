@@ -1,2 +1,2 @@
-# Tool: alienhack.sh
-echo Running alienhack.sh
+#!/bin/bash
+echo "👽 AlienHack tool executed!"
